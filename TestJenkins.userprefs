@@ -1,6 +1,29 @@
 ﻿<Properties StartupItem="Droid/TestJenkins.Droid.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.33002b3d93a562f7" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestJenkins/Properties/AssemblyInfo.cs">
+    <Files>
+      <File FileName="iOS/packages.config" Line="1" Column="1" />
+      <File FileName="iOS/Main.cs" Line="1" Column="1" />
+      <File FileName="iOS/Info.plist" />
+      <File FileName="iOS/Entitlements.plist" />
+      <File FileName="iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="TestJenkins/packages.config" Line="1" Column="1" />
+      <File FileName="TestJenkins/TestJenkins.cs" Line="1" Column="1" />
+      <File FileName="TestJenkins/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestJenkins" expanded="True">
+            <Node name="TestJenkins" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="TestJenkins.iOS" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

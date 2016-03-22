@@ -6,3 +6,11 @@
 /Users/FRincon/Documents/projects/xamarin_workspace/TestJenkins/TestJenkins/bin/Debug/Xamarin.Forms.Core.dll
 /Users/FRincon/Documents/projects/xamarin_workspace/TestJenkins/TestJenkins/bin/Debug/Xamarin.Forms.Xaml.dll
 /Users/FRincon/Documents/projects/xamarin_workspace/TestJenkins/TestJenkins/bin/Debug/Xamarin.Insights.dll
+/Users/FRincon/Documents/projects/XamarinJenkins/TestJenkins/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/FRincon/Documents/projects/XamarinJenkins/TestJenkins/bin/Debug/TestJenkins.dll.mdb
+/Users/FRincon/Documents/projects/XamarinJenkins/TestJenkins/bin/Debug/TestJenkins.dll
+/Users/FRincon/Documents/projects/XamarinJenkins/TestJenkins/obj/Debug/TestJenkins.dll
+/Users/FRincon/Documents/projects/XamarinJenkins/TestJenkins/obj/Debug/TestJenkins.dll.mdb
+/Users/FRincon/Documents/projects/XamarinJenkins/TestJenkins/bin/Debug/Xamarin.Forms.Core.dll
+/Users/FRincon/Documents/projects/XamarinJenkins/TestJenkins/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/FRincon/Documents/projects/XamarinJenkins/TestJenkins/bin/Debug/Xamarin.Insights.dll
