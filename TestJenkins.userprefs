@@ -1,6 +1,6 @@
-﻿<Properties StartupItem="Droid/TestJenkins.Droid.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.33002b3d93a562f7" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Info.plist">
+﻿<Properties StartupItem="iOS/TestJenkins.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.Fredy Rincon’s iPad" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Entitlements.plist">
     <Files>
       <File FileName="iOS/packages.config" Line="1" Column="1" />
       <File FileName="iOS/Main.cs" Line="1" Column="1" />

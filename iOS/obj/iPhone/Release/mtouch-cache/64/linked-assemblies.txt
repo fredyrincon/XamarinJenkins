@@ -1,0 +1,15 @@
+/Users/FRincon/Documents/projects/XamarinJenkins/iOS/obj/iPhone/Release/mtouch-cache/64/Link/System.Runtime.Serialization.dll
+/Users/FRincon/Documents/projects/XamarinJenkins/iOS/obj/iPhone/Release/mtouch-cache/64/Link/PLCrashReporterUnifiedBinding.dll
+/Users/FRincon/Documents/projects/XamarinJenkins/iOS/obj/iPhone/Release/mtouch-cache/64/Link/Xamarin.Forms.Platform.iOS.dll
+/Users/FRincon/Documents/projects/XamarinJenkins/iOS/obj/iPhone/Release/mtouch-cache/64/Link/System.dll
+/Users/FRincon/Documents/projects/XamarinJenkins/iOS/obj/iPhone/Release/mtouch-cache/64/Link/System.Xml.dll
+/Users/FRincon/Documents/projects/XamarinJenkins/iOS/obj/iPhone/Release/mtouch-cache/64/Link/Xamarin.iOS.dll
+/Users/FRincon/Documents/projects/XamarinJenkins/iOS/obj/iPhone/Release/mtouch-cache/64/Link/TestJenkins.iOS.exe
+/Users/FRincon/Documents/projects/XamarinJenkins/iOS/obj/iPhone/Release/mtouch-cache/64/Link/System.Core.dll
+/Users/FRincon/Documents/projects/XamarinJenkins/iOS/obj/iPhone/Release/mtouch-cache/64/Link/mscorlib.dll
+/Users/FRincon/Documents/projects/XamarinJenkins/iOS/obj/iPhone/Release/mtouch-cache/64/Link/Xamarin.Forms.Core.dll
+/Users/FRincon/Documents/projects/XamarinJenkins/iOS/obj/iPhone/Release/mtouch-cache/64/Link/System.ServiceModel.Internals.dll
+/Users/FRincon/Documents/projects/XamarinJenkins/iOS/obj/iPhone/Release/mtouch-cache/64/Link/TestJenkins.dll
+/Users/FRincon/Documents/projects/XamarinJenkins/iOS/obj/iPhone/Release/mtouch-cache/64/Link/System.Net.Http.dll
+/Users/FRincon/Documents/projects/XamarinJenkins/iOS/obj/iPhone/Release/mtouch-cache/64/Link/Mono.Dynamic.Interpreter.dll
+/Users/FRincon/Documents/projects/XamarinJenkins/iOS/obj/iPhone/Release/mtouch-cache/64/Link/Xamarin.Insights.dll
