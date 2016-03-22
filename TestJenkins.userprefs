@@ -1,6 +1,6 @@
 ﻿<Properties StartupItem="Droid/TestJenkins.Droid.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.33002b3d93a562f7" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TestJenkins/Properties/AssemblyInfo.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Info.plist">
     <Files>
       <File FileName="iOS/packages.config" Line="1" Column="1" />
       <File FileName="iOS/Main.cs" Line="1" Column="1" />
@@ -18,7 +18,7 @@
             <Node name="TestJenkins" expanded="True">
               <Node name="Properties" expanded="True" />
             </Node>
-            <Node name="TestJenkins.iOS" selected="True" />
+            <Node name="TestJenkins.iOS" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>

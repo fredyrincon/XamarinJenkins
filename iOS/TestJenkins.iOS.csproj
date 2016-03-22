@@ -28,6 +28,7 @@
     <MtouchDebug>true</MtouchDebug>
     <CodesignKey>iPhone Developer: Fredy Rincon (5WF8J78522)</CodesignKey>
     <MtouchProfiling>true</MtouchProfiling>
+    <CodesignProvision>fef0ed7e-4fd6-4a23-b2b8-ce15ceaf41f8</CodesignProvision>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhone' ">
     <DebugType>full</DebugType>
